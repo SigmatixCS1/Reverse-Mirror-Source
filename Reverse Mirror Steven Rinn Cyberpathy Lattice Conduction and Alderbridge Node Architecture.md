@@ -1136,7 +1136,7 @@ Roman:
 
 Kaiden:
 
-> “Do not.”
+> “Don't.”
 
 Roman:
 
@@ -1152,7 +1152,7 @@ Roman:
 
 Steven:
 
-> “Could you please stop narrating our wrists?”
+> “Could you please stop narrating?”
 
 Kaiden:
 
